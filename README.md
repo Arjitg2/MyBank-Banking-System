@@ -9,7 +9,7 @@ A basic banking system built in Python with SQLite to manage user accounts and t
 🗃️ SQLite database: The app stores user data and transactions securely in a local SQLite database.
 
 🛠️ Technologies Used:
-Python: Programming language for the application logic and backend.
-SQLite: Lightweight database used for storing user data and transaction records.
-Datetime: Used for recording timestamps of transactions.
-Object-Oriented Programming (OOP): For managing the core logic of the banking system, ensuring modular and reusable code.
+1. Python: Programming language for the application logic and backend.
+2. SQLite: Lightweight database used for storing user data and transaction records.
+3. Datetime: Used for recording timestamps of transactions.
+4. Object-Oriented Programming (OOP): For managing the core logic of the banking system, ensuring modular and reusable code.
